@@ -1,6 +1,6 @@
-![Build](https://img.shields.io/github/actions/workflow/status/Sumitgiriyoeki/chat-app/ci.yml?branch=main&label=build&logo=github)
-![Version](https://img.shields.io/github/package-json/v/Sumitgiriyoeki/chat-app?color=blue&label=version)
-![License](https://img.shields.io/github/license/Sumitgiriyoeki/chat-app?color=green)
+![Build](https://img.shields.io/github/actions/workflow/status/Sumitgiriyoeki/ChatApplication/ci.yml?branch=main&label=build&logo=github)
+![Version](https://img.shields.io/github/package-json/v/Sumitgiriyoeki/ChatApplication?color=blue&label=version)
+![License](https://img.shields.io/github/license/Sumitgiriyoeki/ChatApplication?color=green)
 
 # 💬 Real-Time Chat Application (Next.js + .NET Core + SignalR)
 
