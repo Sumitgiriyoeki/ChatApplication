@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/ChatApplication//_next/:path+",
+        "destination": "/ChatApplication/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
