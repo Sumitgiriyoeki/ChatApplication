@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://sumitgiriyoeki.github.io/ChatApplication/)
 ![Build](https://img.shields.io/github/actions/workflow/status/Sumitgiriyoeki/ChatApplication/ci.yml?branch=main&label=build&logo=github)
 ![Version](https://img.shields.io/github/package-json/v/Sumitgiriyoeki/ChatApplication?color=blue&label=version)
 ![License](https://img.shields.io/github/license/Sumitgiriyoeki/ChatApplication?color=green)
