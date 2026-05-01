@@ -1,4 +1,4 @@
-:HL["/ChatApplication/_next/static/chunks/0g0it5z_t0gog.css","style"]
+:HL["/ChatApplication/_next/static/chunks/13spwzo61rniy.css","style"]
 :HL["/ChatApplication/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ChatApplication/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JaPv-E0ahWyQK_Ikmfn7x"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"x_NeY5DD8lLGjhZF-85he"}

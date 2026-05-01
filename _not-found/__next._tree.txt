@@ -1,2 +1,2 @@
-:HL["/ChatApplication/_next/static/chunks/0g0it5z_t0gog.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"JaPv-E0ahWyQK_Ikmfn7x"}
+:HL["/ChatApplication/_next/static/chunks/13spwzo61rniy.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"x_NeY5DD8lLGjhZF-85he"}
