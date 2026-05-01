@@ -1,16 +1,17 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-   output: "export", 
-  images: {
-    unoptimized: true, // required for static export
-  },
-   basePath: process.env.NODE_ENV === "production"
-    // ? "/frontened/chatbot"
-     ? "/ChatApplication" : "",
+const isProd = process.env.NODE_ENV === "production";
 
-   assetPrefix: process.env.NODE_ENV === "production"
-    ? "/ChatApplication/" : "",
+const nextConfig: NextConfig = {
+   output: "export",
+
+  images: {
+    unoptimized: true,
+  },
+
+  basePath: isProd ? "/ChatApplication" : "",
+  assetPrefix: isProd ? "/ChatApplication/" : "",
+  trailingSlash: true,
 };
 
 export default nextConfig;
