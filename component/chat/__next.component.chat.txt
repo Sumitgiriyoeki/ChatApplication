@@ -2,4 +2,4 @@
 2:I[39756,["/ChatApplication/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 3:I[37457,["/ChatApplication/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"x_NeY5DD8lLGjhZF-85he"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"wiMd2-RHgC8hl49jpH9XC"}
