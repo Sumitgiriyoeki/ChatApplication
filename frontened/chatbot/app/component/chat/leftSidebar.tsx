@@ -40,7 +40,6 @@ export default function LeftSidebar({
               placeholder="Enter your name"
               className="w-full p-3 rounded-lg text-black outline-none focus:ring-2 focus:ring-blue-500"
             />
-
             <button className="w-full bg-blue-600 hover:bg-blue-700 transition-all p-3 rounded-lg font-medium">
               Start Chat
             </button>
